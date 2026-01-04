@@ -8,8 +8,10 @@
       >
         <div class="absolute-full flex flex-center bg-black-50">
           <div class="text-center">
-            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white">Contact Us</h1>
-            <p class="text-h6 text-grey-4">We'd love to hear from you</p>
+            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white gt-sm">Contact Us</h1>
+            <h1 class="text-h3 font-serif text-weight-bold q-mb-md text-white lt-md">Contact Us</h1>
+            <p class="text-h6 text-grey-4 gt-sm">We'd love to hear from you</p>
+            <p class="text-subtitle1 text-grey-4 lt-md">We'd love to hear from you</p>
           </div>
         </div>
       </q-img>
@@ -19,7 +21,8 @@
       <div class="row q-col-gutter-xl">
         <!-- Contact Info -->
         <div class="col-12 col-md-5">
-          <h2 class="text-h4 font-serif q-mt-none q-mb-lg">Get in Touch</h2>
+          <h2 class="text-h4 font-serif q-mt-none q-mb-lg gt-sm">Get in Touch</h2>
+          <h2 class="text-h5 font-serif q-mt-none q-mb-lg lt-md">Get in Touch</h2>
           <p class="text-grey-4 q-mb-xl">
             Have questions about our services or need to report an issue? Please feel free to contact us. We are always ready to help you.
           </p>
@@ -65,7 +68,8 @@
         <!-- Contact Form -->
         <div class="col-12 col-md-7">
           <q-card class="bg-grey-10 q-pa-lg contact-form-card">
-            <h2 class="text-h4 font-serif q-mt-none q-mb-lg">Send Message</h2>
+            <h2 class="text-h4 font-serif q-mt-none q-mb-lg gt-sm">Send Message</h2>
+            <h2 class="text-h5 font-serif q-mt-none q-mb-lg lt-md">Send Message</h2>
             <q-form @submit="onSubmit" class="q-gutter-md">
               <div class="row q-col-gutter-md">
                 <div class="col-12 col-md-6">

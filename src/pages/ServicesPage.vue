@@ -8,8 +8,10 @@
       >
         <div class="absolute-full flex flex-center bg-black-50">
           <div class="text-center">
-            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white">Our Services</h1>
-            <p class="text-h6 text-grey-4">Premium treatments for your hair, skin, and body</p>
+            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white gt-sm">Our Services</h1>
+            <h1 class="text-h3 font-serif text-weight-bold q-mb-md text-white lt-md">Our Services</h1>
+            <p class="text-h6 text-grey-4 gt-sm">Premium treatments for your hair, skin, and body</p>
+            <p class="text-subtitle1 text-grey-4 lt-md">Premium treatments for your hair, skin, and body</p>
           </div>
         </div>
       </q-img>
@@ -21,7 +23,8 @@
       <div class="q-mb-xl">
         <div class="row items-center q-mb-lg">
           <q-icon name="content_cut" color="accent" size="32px" class="q-mr-sm" />
-          <h2 class="text-h4 font-serif q-my-none">Hair Care</h2>
+          <h2 class="text-h4 font-serif q-my-none gt-sm">Hair Care</h2>
+          <h2 class="text-h5 font-serif q-my-none lt-md">Hair Care</h2>
         </div>
         
         <div class="row q-col-gutter-lg">
@@ -47,7 +50,8 @@
       <div class="q-mb-xl">
         <div class="row items-center q-mb-lg">
           <q-icon name="face" color="accent" size="32px" class="q-mr-sm" />
-          <h2 class="text-h4 font-serif q-my-none">Skin & Beauty</h2>
+          <h2 class="text-h4 font-serif q-my-none gt-sm">Skin & Beauty</h2>
+          <h2 class="text-h5 font-serif q-my-none lt-md">Skin & Beauty</h2>
         </div>
         
         <div class="row q-col-gutter-lg">

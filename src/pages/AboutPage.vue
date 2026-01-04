@@ -8,8 +8,10 @@
       >
         <div class="absolute-full flex flex-center bg-black-50">
           <div class="text-center">
-            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white">About Luxe</h1>
-            <p class="text-h6 text-grey-4">Redefining beauty since 2015</p>
+            <h1 class="text-h2 font-serif text-weight-bold q-mb-md text-white gt-sm">About Luxe</h1>
+            <h1 class="text-h3 font-serif text-weight-bold q-mb-md text-white lt-md">About Luxe</h1>
+            <p class="text-h6 text-grey-4 gt-sm">Redefining beauty since 2015</p>
+            <p class="text-subtitle1 text-grey-4 lt-md">Redefining beauty since 2015</p>
           </div>
         </div>
       </q-img>
@@ -27,7 +29,8 @@
         </div>
         <div class="col-12 col-md-6">
           <div class="text-overline text-accent q-mb-sm">OUR STORY</div>
-          <h2 class="text-h3 font-serif q-mt-none q-mb-md">Excellence in Beauty</h2>
+          <h2 class="text-h3 font-serif q-mt-none q-mb-md gt-sm">Excellence in Beauty</h2>
+          <h2 class="text-h4 font-serif q-mt-none q-mb-md lt-md">Excellence in Beauty</h2>
           <p class="text-grey-4 text-body1 q-mb-md">
             Founded with a vision to create a sanctuary where beauty meets relaxation, Luxe Salon has grown into one of Colombo's premier beauty destinations. We believe that everyone deserves to feel confident and beautiful.
           </p>
@@ -55,7 +58,8 @@
       <div class="q-py-xl">
         <div class="text-center q-mb-xl">
           <div class="text-overline text-accent">THE EXPERTS</div>
-          <h2 class="text-h3 font-serif q-mt-none">Meet Our Team</h2>
+          <h2 class="text-h3 font-serif q-mt-none gt-sm">Meet Our Team</h2>
+          <h2 class="text-h4 font-serif q-mt-none lt-md">Meet Our Team</h2>
         </div>
 
         <div class="row q-col-gutter-lg">

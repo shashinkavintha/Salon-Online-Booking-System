@@ -89,7 +89,7 @@
     </q-page-container>
 
     <q-footer class="bg-primary text-white">
-      <div class="q-pa-xl">
+      <div class="q-pa-md-xl q-pa-lg-xl q-pa-sm">
         <div class="row q-col-gutter-xl">
           <!-- Brand Column -->
           <div class="col-12 col-md-4">

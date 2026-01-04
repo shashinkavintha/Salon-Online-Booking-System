@@ -10,11 +10,17 @@
       <div class="absolute-full" style="background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6));"></div>
 
       <div class="relative-position q-pa-md container-limit fade-in-up" style="z-index: 1;">
-        <div class="text-overline text-accent q-mb-sm tracking-widest">WELCOME TO LUXE</div>
-        <h1 class="text-h1 text-weight-bolder q-mt-none q-mb-md heading-font" style="line-height: 1.1">
+        <div class="text-overline text-accent q-mb-sm tracking-widest text-subtitle2-sm">WELCOME TO LUXE</div>
+        <h1 class="text-h1 text-weight-bolder q-mt-none q-mb-md heading-font gt-sm" style="line-height: 1.1">
           Experience <span class="text-italic text-accent">True</span> Luxury
         </h1>
-        <p class="text-h5 q-mb-xl text-grey-3 text-weight-light">
+        <h1 class="text-h3 text-weight-bolder q-mt-none q-mb-md heading-font lt-md" style="line-height: 1.1">
+          Experience <span class="text-italic text-accent">True</span> Luxury
+        </h1>
+        <p class="text-h5 q-mb-xl text-grey-3 text-weight-light gt-sm">
+          Premium Hair, Skin & Body Treatments for the Elegant You
+        </p>
+         <p class="text-subtitle1 q-mb-xl text-grey-3 text-weight-light lt-md">
           Premium Hair, Skin & Body Treatments for the Elegant You
         </p>
         <q-btn
@@ -35,11 +41,12 @@
     </div>
 
     <!-- Introduction Section -->
-    <div class="row q-pa-xl justify-center bg-grey-1 section-spacing">
+    <div class="row q-pa-md-xl q-pa-lg-xl q-pa-sm justify-center bg-grey-1 section-spacing">
       <div class="col-12 col-md-8 text-center">
         <div class="section-title">
           <span class="text-accent text-uppercase text-weight-bold tracking-widest">Our Story</span>
-          <h2 class="text-h3 text-black text-weight-medium q-mt-sm q-mb-md">Redefining Beauty</h2>
+          <h2 class="text-h3 text-black text-weight-medium q-mt-sm q-mb-md gt-sm">Redefining Beauty</h2>
+          <h2 class="text-h4 text-black text-weight-medium q-mt-sm q-mb-md lt-md">Redefining Beauty</h2>
           <div class="separator-line bg-accent q-mx-auto q-mb-lg"></div>
         </div>
         <p class="text-grey-8 text-body1 leading-relaxed">
@@ -49,10 +56,11 @@
     </div>
 
     <!-- Services Section -->
-    <div class="q-pa-xl bg-white section-spacing">
+    <div class="q-pa-md-xl q-pa-lg-xl q-pa-sm bg-white section-spacing">
       <div class="text-center q-mb-xl">
         <div class="text-accent text-uppercase text-weight-bold tracking-widest">What We Offer</div>
-        <h3 class="text-h2 text-weight-bold q-mt-sm q-mb-none">Our Services</h3>
+        <h3 class="text-h2 text-weight-bold q-mt-sm q-mb-none gt-sm">Our Services</h3>
+        <h3 class="text-h4 text-weight-bold q-mt-sm q-mb-none lt-md">Our Services</h3>
       </div>
 
       <div class="row q-col-gutter-xl">
@@ -72,7 +80,7 @@
     </div>
 
     <!-- Features / Stats Section -->
-    <div class="bg-black text-white q-pa-xl section-spacing">
+    <div class="bg-black text-white q-pa-md-xl q-pa-lg-xl q-pa-sm section-spacing">
       <div class="row q-col-gutter-lg text-center justify-center">
         <div class="col-6 col-md-3">
           <div class="text-h2 text-accent text-weight-bold">50+</div>
@@ -94,9 +102,10 @@
     </div>
 
     <!-- Testimonials Section -->
-    <div class="q-pa-xl bg-grey-1 section-spacing">
+    <div class="q-pa-md-xl q-pa-lg-xl q-pa-sm bg-grey-1 section-spacing">
        <div class="text-center q-mb-xl">
-        <h3 class="text-h3 text-weight-bold q-mt-none">Client Love</h3>
+        <h3 class="text-h3 text-weight-bold q-mt-none gt-sm">Client Love</h3>
+        <h3 class="text-h4 text-weight-bold q-mt-none lt-md">Client Love</h3>
         <div class="separator-line bg-accent q-mx-auto"></div>
       </div>
       <div class="row q-col-gutter-lg justify-center">
@@ -121,10 +130,11 @@
     </div>
 
     <!-- CTA Section -->
-    <div class="bg-black text-white q-pa-xl text-center section-spacing relative-position overflow-hidden">
+    <div class="bg-black text-white q-pa-md-xl q-pa-lg-xl q-pa-md text-center section-spacing relative-position overflow-hidden">
       <div class="absolute-full" style="background: rgba(0,0,0,0.1)"></div> <!-- texture overlay -->
       <div class="relative-position">
-        <h2 class="text-h3 text-weight-bold q-mt-none q-mb-md">Ready to Transform?</h2>
+        <h2 class="text-h3 text-weight-bold q-mt-none q-mb-md gt-sm">Ready to Transform?</h2>
+        <h2 class="text-h4 text-weight-bold q-mt-none q-mb-md lt-md">Ready to Transform?</h2>
         <p class="text-h6 text-white text-weight-light q-mb-xl" style="opacity: 0.9">
           Book your exclusive appointment today and experience the difference.
         </p>
