@@ -1,0 +1,13 @@
+{
+  "name": "salon-bookin-sysytem",
+  "version": "0.0.1",
+  "description": "Saloon bookin",
+  "author": "shashin <shashinkavintha@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
